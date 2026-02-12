@@ -1,5 +1,5 @@
 print("Hello World")
-idade = 38
+idade = 40
 print(idade)
 print("Testando Python")
 curso = "Python Desenvolvedor"
